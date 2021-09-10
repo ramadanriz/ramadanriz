@@ -4,12 +4,11 @@ I love making and designing webpages with HTML and CSS (and possible JavaScript 
 
 For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  
-</p>  
+- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 🔭 I like to code, watch, and play a game in my free time
+- 😄 Pronouns: he, his, him
+
+
 
 
 <!--
@@ -17,20 +16,20 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently schooling on Hasyim Asyari Univercity
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+-  I’m currently schooling on Hasyim Asyari Univercity
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
 -->
 
 
 <p align="left">
 <a href="https://github.com/ramadanriz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramadanriz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramadanriz&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramadanriz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramadanriz&layout=compact&langs_count=8&theme=darcul&hide_border=true&background=FFFFFF00"/>
 </a>
 </p>
