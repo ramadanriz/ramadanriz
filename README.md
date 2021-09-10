@@ -1,6 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm Rizky Ramadhani, Front End Web enthusiast from <img src="https://image.flaticon.com/icons/svg/197/197594.svg" width="13"/> <b>Jombang, East Java</b>.<br/>
-My passion for the front end of the web lies in creating an elegant website interface. I take great care in the experience, architecture and code quality of the things I build.
+I'm Rizky Ramadhani, I am a student who lives in <img src="https://image.flaticon.com/icons/svg/197/197594.svg" width="13"/> <b>Jombang, East Java</b>.<br/>
+I love making and designing webpages with HTML and CSS (and possible JavaScript in the future). It's fun to code something that anyone on the web can easily see. I love it when I can finally solve a difficult problem.
+
+For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.
 
 <h3>Things I code with</h3>
 <p>
@@ -16,7 +18,7 @@ My passion for the front end of the web lies in creating an elegant website inte
 Here are some ideas to get you started:
 
 - 🔭 I’m currently schooling on Hasyim Asyari Univercity
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning HTML, CSS, and Javascript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
