@@ -2,6 +2,13 @@
 I'm Rizky Ramadhani, Front End Web enthusiast from <img src="https://image.flaticon.com/icons/svg/197/197594.svg" width="13"/> <b>Jombang, East Java</b>.<br/>
 My passion for the front end of the web lies in creating an elegant website interface. I take great care in the experience, architecture and code quality of the things I build.
 
+<h3>Things I code with</h3>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  
+</p>  
+
 
 <!--
 **ramadanriz/ramadanriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
