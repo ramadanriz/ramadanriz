@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left">
-<a href="https://github.com/ramadanriz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramadanriz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramadanriz&layout=compact&langs_count=8&theme=darcul&hide_border=true&background=FFFFFF00"/>
-</a>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=ramadanriz&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadanriz&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 </p>
