@@ -21,7 +21,10 @@ For my programming projects, I usually only upload to Github once I make signifi
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=ramadanriz&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadanriz&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
 </p>
+
+<img src="https://imgur.com/rilHVxA.png"/> 
