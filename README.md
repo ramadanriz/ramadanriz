@@ -11,7 +11,6 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 🔭 I like to code, watch, and play a game in my free time
-- 😄 Pronouns: he, his, him
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
