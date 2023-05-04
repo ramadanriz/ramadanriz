@@ -16,5 +16,7 @@ Saya sangat terbuka untuk berkolaborasi dalam projek-projek menarik. Anda dapat 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramadanriz&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadanriz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div class="flex justify-between">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramadanriz&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadanriz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
