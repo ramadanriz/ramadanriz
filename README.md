@@ -10,9 +10,7 @@ Saya adalah seorang programmer yang berfokus pada pengembangan web dan memiliki 
 ### Cara Menghubungi Saya
 Saya sangat terbuka untuk berkolaborasi dalam projek-projek menarik. Anda dapat menghubungi saya melalui:
 
-- Email: ramadhanriz57@gmail.com
 - LinkedIn: [Rizky Ramadhani](https://www.linkedin.com/in/ramadhanriz/)
-- GitHub: [ramadanriz](https://github.com/ramadanriz)
 
 ### ⚙️ &nbsp;GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadanriz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
