@@ -1,10 +1,10 @@
 ## Hi :wave:
 
-I am a web programmer with expertise in developing captivating and functional web applications. I have experience in implementing responsive and interactive designs using a combination of HTML, CSS, and JavaScript.
+I am a web programmer with expertise in developing captivating and functional web applications. I have experience in implementing responsive and interactive designs using a combination of HTML, CSS, JavaScript, and PHP.
 
 ### Currently working with:
 
-![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+[![Laravel](https://laravel.com/)](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
