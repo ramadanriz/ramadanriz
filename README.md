@@ -1,4 +1,4 @@
-## Hi :wave:
+## :wave: Hi, let me introduce myself
 
 I am a web programmer with expertise in developing captivating and functional web applications. I have experience in implementing responsive and interactive designs using a combination of HTML, CSS, JavaScript, and PHP.
 
