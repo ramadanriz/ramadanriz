@@ -1,16 +1,65 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّهِ وَبَرَكاتُهُ‎
-![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational)&nbsp;
-![profile count](https://komarev.com/ghpvc/?username=ramadanriz&color=red)&nbsp;
-[![GitHub ramadanriz](https://img.shields.io/github/followers/ramadanriz?label=follow&style=social)](https://github.com/ramadanriz)</br>
+# Project Title
 
-### 👨🏻‍💻 &nbsp;About Me
-Halo, Saya Rizky Ramadhani!
-Saya adalah seorang programmer yang berfokus pada pengembangan web dan memiliki pengalaman dalam berbagai teknologi pengembangan web. Saya memiliki minat dalam membangun aplikasi web yang inovatif dan berfokus pada kualitas kode, performa, dan pengalaman pengguna yang baik. Saya senang berkolaborasi dalam tim dan menghadapi tantangan baru dalam pengembangan web. Saya selalu mencari cara baru untuk meningkatkan keterampilan saya dan mengikuti tren terbaru dalam industri pengembangan web.
+Simple overview of use/purpose.
 
-### Cara Menghubungi Saya
-Saya sangat terbuka untuk berkolaborasi dalam projek-projek menarik. Anda dapat menghubungi saya melalui:
+## Description
 
-- LinkedIn: [Rizky Ramadhani](https://www.linkedin.com/in/ramadhanriz/)
+An in-depth paragraph about your project and overview of use.
+
+## Getting Started
+
+### Dependencies
+
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
+
+### Installing
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+### Executing program
+
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+Contributors names and contact info
+
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
+
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [dbader](https://github.com/dbader/readme-template)
+* [zenorocha](https://gist.github.com/zenorocha/4526327)
+* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 
 ### ⚙️ &nbsp;GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadanriz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
