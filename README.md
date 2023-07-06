@@ -1,16 +1,8 @@
-# Project Title
+## Rizky Ramadhani
 
-Simple overview of use/purpose.
+### Currently working with:
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ![image]({https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white})
 * ex. Windows 10
 
 ### Installing
