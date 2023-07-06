@@ -9,7 +9,7 @@
 
 ### Contact
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(a href="mailto:ramadhanriz57@gmail.com")
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:ramadhanriz57@gmail.com)
 * Any modifications needed to be made to files/folders
 
 ### Executing program
