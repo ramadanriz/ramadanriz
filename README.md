@@ -14,6 +14,11 @@
 - I use ![Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff) btw
 - ![Mikrotik](https://img.shields.io/badge/-Mikrotik-293239?style=for-the-badge&logo=mikrotik)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### GitHub analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadanriz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ramadanriz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramadanriz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadanriz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
