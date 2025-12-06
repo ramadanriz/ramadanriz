@@ -1,4 +1,10 @@
 ## :wave: Hi there, my name is Rizky Ramadhani
+###
+
+<p align="center">Not an expert, just a curious human with too many tabs open~</p>
+
+###
+
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramadhanriz/)
