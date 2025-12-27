@@ -15,3 +15,4 @@
 ### GitHub Stats
 
 [![](https://github-readme-stats-fast.vercel.app/api?username=ramadanriz)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ramadanriz)](https://github.com/pranesh-2005/github-readme-stats-fast)
