@@ -5,6 +5,7 @@
 
 ###
 
+- I use ![Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff) btw
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rzk_rmdn/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramadhanriz/)
 - ![Mikrotik](https://img.shields.io/badge/-Mikrotik-293239?style=for-the-badge&logo=mikrotik)
